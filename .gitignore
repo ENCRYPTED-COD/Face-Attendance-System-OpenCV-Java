@@ -1,0 +1,17 @@
+# Compiled files
+*.class
+
+# OpenCV native libraries
+*.dll
+*.pdb
+
+# Dataset images
+dataset/
+captured_face.jpg
+
+# OS / IDE
+.vscode/
+.DS_Store
+
+# Temporary files
+tempCodeRunnerFile.java
